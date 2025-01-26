@@ -21,7 +21,8 @@ The system allows users to:
 - **JavaScript**: To handle form submissions, edit/delete functionality, and local storage.
 
 ## GitHub Repository
-You can view or contribute to this project on GitHub:
-[https://github.com/YourUsername/Student-Registration-System](https://github.com/YourUsername/Student-Registration-System)
+You can view this project on GitHub:
+
+https://github.com/RahulBelavadi/StudentRegisterForm.git
 
 
