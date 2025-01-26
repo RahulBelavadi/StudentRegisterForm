@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background: #160331;
+    color: white;
+}
+
+header {
+    background: #160331;
+    color: white;
+    text-align: center;
+}
+
+header h1{
+    color: aqua;
+}
+
+
+form {
+    background: rgb(22, 6, 109);
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 1rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+form label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+form input{
+    width: 80%;
+    height: 25px;
+    padding-left: 2%;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+}
+
+
+
+
+#form-section h2{
+    text-align: center;
+}
+
+form button {
+    background: #6200ea;
+    color: white;
+    border: none;
+    height: 30px;
+    cursor: pointer;
+    font-size: 15px;
+    width: 30%;
+    border-radius: 4px;
+    
+}
+
+form button:hover {
+    background: #3700b3;
+}
+
+#display-section {
+  
+    padding-left: 5%;   
+    padding-right: 5%;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 0.2rem;
+    text-align: center;
+    background: #160331;
+}
+
+table th {
+    background: #6200ea;
+    color: white;
+}
+
+
+.edit img{
+    width: 15px;
+
+    
+}
+
+.delete img{
+    width: 15px;
+
+    
+}
+
+
+.edit,.delete:hover{
+    cursor: pointer;
+}
